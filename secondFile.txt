@@ -1,5 +1,5 @@
-secondFile1
-secondFile2
+secondFile1_step4
+secondFile2_step4
 secondFile3
 secondFile4
 secondFile5
