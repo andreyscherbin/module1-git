@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 secondFile1_step5
 secondFile2_step5
+=======
+secondFile1_step4
+secondFile2_step4
+>>>>>>> git_2
 secondFile3
 secondFile4
 secondFile5
