@@ -1,5 +1,5 @@
-firstFile1
-firstFile2
+firstFile1_step7
+firstFile2_step7
 firstFile3
 firstFile4
 firstFile5
